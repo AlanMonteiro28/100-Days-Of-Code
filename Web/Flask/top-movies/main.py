@@ -13,7 +13,7 @@ API_INFO_URL = "https://api.themoviedb.org/3/movie"
 
 API_HEADERS = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1YWIyMTNlMTVkMWUxM2Q0ZDc2NjA1YWI3YmFkZDZjZiIsInN1YiI6IjY2MDViNjQ1NjZmMmQyMDE2MzI5ZjI5ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.DTZoKd18QKnqREdtJJBIaybLcWzG57z4dxbSDM6T3E0"
+    "Authorization": "Your API "
 }
 
 MOVIE_DB_IMAGE_URL = "https://image.tmdb.org/t/p/original/"
