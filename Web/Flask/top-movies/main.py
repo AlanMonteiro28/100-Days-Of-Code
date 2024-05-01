@@ -13,7 +13,7 @@ API_INFO_URL = "https://api.themoviedb.org/3/movie"
 
 API_HEADERS = {
     "accept": "application/json",
-    "Authorization": "Your API "
+    "Authorization": "Your API AUTH"
 }
 
 MOVIE_DB_IMAGE_URL = "https://image.tmdb.org/t/p/original/"
